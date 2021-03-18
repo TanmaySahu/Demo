@@ -6,6 +6,8 @@ pushing to remote server.
 
 updating on remote server.
 
-working on the 2nd branch.
-
+working on the 2nd branch
+.
+solving merge conflict
 i am on 2nd branch.
+i am on 3rd branch.
